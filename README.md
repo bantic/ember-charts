@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This library is no longer actively maintained and has been archived.
+
 # Ember Charts [![Build Status](https://secure.travis-ci.org/Addepar/ember-charts.svg?branch=master)](https://travis-ci.org/Addepar/ember-charts)
 
 A charting library built with the Ember.js and d3.js frameworks. It includes
